@@ -1,15 +1,13 @@
 //
-//  main.m
+//  SubClassA2.m
 //  AnalyseDependencyDemo
 //
-//  Created by xgb on 2018/6/12.
+//  Created by xgb on 2018/6/5.
 //  Copyright © 2018年 demo. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
-#import "AppDelegate.h"
+#import "SubClassA2.h"
 
-#import "ClassA1.h"
 #import "ClassA2.h"
 #import "ClassA3.h"
 #import "ClassB1.h"
@@ -22,8 +20,6 @@
 #import "ClassD2.h"
 #import "ClassD3.h"
 
-int main(int argc, char * argv[]) {
-    @autoreleasepool {
-        return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
-    }
-}
+@implementation SubClassA2
+
+@end
