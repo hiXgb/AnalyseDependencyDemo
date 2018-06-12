@@ -7,6 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0A31EF7E20D01C9100E9B64A /* ClassA3.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A31EF5E20D01C9100E9B64A /* ClassA3.m */; };
+		0A31EF7F20D01C9100E9B64A /* SubClassA2.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A31EF6120D01C9100E9B64A /* SubClassA2.m */; };
+		0A31EF8020D01C9100E9B64A /* ClassA2.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A31EF6320D01C9100E9B64A /* ClassA2.m */; };
+		0A31EF8120D01C9100E9B64A /* SubClassA1.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A31EF6620D01C9100E9B64A /* SubClassA1.m */; };
+		0A31EF8220D01C9100E9B64A /* ClassA1.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A31EF6720D01C9100E9B64A /* ClassA1.m */; };
+		0A31EF8320D01C9100E9B64A /* ClassC1.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A31EF6B20D01C9100E9B64A /* ClassC1.m */; };
+		0A31EF8420D01C9100E9B64A /* ClassC2.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A31EF6C20D01C9100E9B64A /* ClassC2.m */; };
+		0A31EF8520D01C9100E9B64A /* ClassC3.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A31EF6E20D01C9100E9B64A /* ClassC3.m */; };
+		0A31EF8620D01C9100E9B64A /* ClassB1.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A31EF7120D01C9100E9B64A /* ClassB1.m */; };
+		0A31EF8720D01C9100E9B64A /* ClassB2.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A31EF7320D01C9100E9B64A /* ClassB2.m */; };
+		0A31EF8820D01C9100E9B64A /* ClassB3.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A31EF7420D01C9100E9B64A /* ClassB3.m */; };
+		0A31EF8920D01C9100E9B64A /* ClassD3.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A31EF7920D01C9100E9B64A /* ClassD3.m */; };
+		0A31EF8A20D01C9100E9B64A /* ClassD2.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A31EF7B20D01C9100E9B64A /* ClassD2.m */; };
+		0A31EF8B20D01C9100E9B64A /* ClassD1.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A31EF7C20D01C9100E9B64A /* ClassD1.m */; };
 		0AC23DEC20CF99FA00E89E6F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AC23DEB20CF99FA00E89E6F /* AppDelegate.m */; };
 		0AC23DEF20CF99FA00E89E6F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AC23DEE20CF99FA00E89E6F /* ViewController.m */; };
 		0AC23DF220CF99FA00E89E6F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AC23DF020CF99FA00E89E6F /* Main.storyboard */; };
@@ -35,6 +49,34 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0A31EF5D20D01C9100E9B64A /* ClassA2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClassA2.h; sourceTree = "<group>"; };
+		0A31EF5E20D01C9100E9B64A /* ClassA3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClassA3.m; sourceTree = "<group>"; };
+		0A31EF6020D01C9100E9B64A /* SubClassA2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SubClassA2.h; sourceTree = "<group>"; };
+		0A31EF6120D01C9100E9B64A /* SubClassA2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SubClassA2.m; sourceTree = "<group>"; };
+		0A31EF6220D01C9100E9B64A /* ClassA1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClassA1.h; sourceTree = "<group>"; };
+		0A31EF6320D01C9100E9B64A /* ClassA2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClassA2.m; sourceTree = "<group>"; };
+		0A31EF6520D01C9100E9B64A /* SubClassA1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SubClassA1.h; sourceTree = "<group>"; };
+		0A31EF6620D01C9100E9B64A /* SubClassA1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SubClassA1.m; sourceTree = "<group>"; };
+		0A31EF6720D01C9100E9B64A /* ClassA1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClassA1.m; sourceTree = "<group>"; };
+		0A31EF6820D01C9100E9B64A /* ClassA3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClassA3.h; sourceTree = "<group>"; };
+		0A31EF6A20D01C9100E9B64A /* ClassC3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClassC3.h; sourceTree = "<group>"; };
+		0A31EF6B20D01C9100E9B64A /* ClassC1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClassC1.m; sourceTree = "<group>"; };
+		0A31EF6C20D01C9100E9B64A /* ClassC2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClassC2.m; sourceTree = "<group>"; };
+		0A31EF6D20D01C9100E9B64A /* ClassC1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClassC1.h; sourceTree = "<group>"; };
+		0A31EF6E20D01C9100E9B64A /* ClassC3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClassC3.m; sourceTree = "<group>"; };
+		0A31EF6F20D01C9100E9B64A /* ClassC2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClassC2.h; sourceTree = "<group>"; };
+		0A31EF7120D01C9100E9B64A /* ClassB1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClassB1.m; sourceTree = "<group>"; };
+		0A31EF7220D01C9100E9B64A /* ClassB3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClassB3.h; sourceTree = "<group>"; };
+		0A31EF7320D01C9100E9B64A /* ClassB2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClassB2.m; sourceTree = "<group>"; };
+		0A31EF7420D01C9100E9B64A /* ClassB3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClassB3.m; sourceTree = "<group>"; };
+		0A31EF7520D01C9100E9B64A /* ClassB1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClassB1.h; sourceTree = "<group>"; };
+		0A31EF7620D01C9100E9B64A /* ClassB2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClassB2.h; sourceTree = "<group>"; };
+		0A31EF7820D01C9100E9B64A /* ClassD2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClassD2.h; sourceTree = "<group>"; };
+		0A31EF7920D01C9100E9B64A /* ClassD3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClassD3.m; sourceTree = "<group>"; };
+		0A31EF7A20D01C9100E9B64A /* ClassD1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClassD1.h; sourceTree = "<group>"; };
+		0A31EF7B20D01C9100E9B64A /* ClassD2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClassD2.m; sourceTree = "<group>"; };
+		0A31EF7C20D01C9100E9B64A /* ClassD1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClassD1.m; sourceTree = "<group>"; };
+		0A31EF7D20D01C9100E9B64A /* ClassD3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClassD3.h; sourceTree = "<group>"; };
 		0AC23DE720CF99FA00E89E6F /* AnalyseDependencyDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnalyseDependencyDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AC23DEA20CF99FA00E89E6F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		0AC23DEB20CF99FA00E89E6F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -78,6 +120,78 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0A31EF5C20D01C9100E9B64A /* ModuleA */ = {
+			isa = PBXGroup;
+			children = (
+				0A31EF6220D01C9100E9B64A /* ClassA1.h */,
+				0A31EF6720D01C9100E9B64A /* ClassA1.m */,
+				0A31EF5D20D01C9100E9B64A /* ClassA2.h */,
+				0A31EF6320D01C9100E9B64A /* ClassA2.m */,
+				0A31EF6820D01C9100E9B64A /* ClassA3.h */,
+				0A31EF5E20D01C9100E9B64A /* ClassA3.m */,
+				0A31EF5F20D01C9100E9B64A /* SubModuleA2 */,
+				0A31EF6420D01C9100E9B64A /* SubModuleA */,
+			);
+			path = ModuleA;
+			sourceTree = "<group>";
+		};
+		0A31EF5F20D01C9100E9B64A /* SubModuleA2 */ = {
+			isa = PBXGroup;
+			children = (
+				0A31EF6020D01C9100E9B64A /* SubClassA2.h */,
+				0A31EF6120D01C9100E9B64A /* SubClassA2.m */,
+			);
+			path = SubModuleA2;
+			sourceTree = "<group>";
+		};
+		0A31EF6420D01C9100E9B64A /* SubModuleA */ = {
+			isa = PBXGroup;
+			children = (
+				0A31EF6520D01C9100E9B64A /* SubClassA1.h */,
+				0A31EF6620D01C9100E9B64A /* SubClassA1.m */,
+			);
+			path = SubModuleA;
+			sourceTree = "<group>";
+		};
+		0A31EF6920D01C9100E9B64A /* ModuleC */ = {
+			isa = PBXGroup;
+			children = (
+				0A31EF6D20D01C9100E9B64A /* ClassC1.h */,
+				0A31EF6B20D01C9100E9B64A /* ClassC1.m */,
+				0A31EF6F20D01C9100E9B64A /* ClassC2.h */,
+				0A31EF6C20D01C9100E9B64A /* ClassC2.m */,
+				0A31EF6A20D01C9100E9B64A /* ClassC3.h */,
+				0A31EF6E20D01C9100E9B64A /* ClassC3.m */,
+			);
+			path = ModuleC;
+			sourceTree = "<group>";
+		};
+		0A31EF7020D01C9100E9B64A /* ModuleB */ = {
+			isa = PBXGroup;
+			children = (
+				0A31EF7520D01C9100E9B64A /* ClassB1.h */,
+				0A31EF7120D01C9100E9B64A /* ClassB1.m */,
+				0A31EF7620D01C9100E9B64A /* ClassB2.h */,
+				0A31EF7320D01C9100E9B64A /* ClassB2.m */,
+				0A31EF7220D01C9100E9B64A /* ClassB3.h */,
+				0A31EF7420D01C9100E9B64A /* ClassB3.m */,
+			);
+			path = ModuleB;
+			sourceTree = "<group>";
+		};
+		0A31EF7720D01C9100E9B64A /* ModuleD */ = {
+			isa = PBXGroup;
+			children = (
+				0A31EF7A20D01C9100E9B64A /* ClassD1.h */,
+				0A31EF7C20D01C9100E9B64A /* ClassD1.m */,
+				0A31EF7820D01C9100E9B64A /* ClassD2.h */,
+				0A31EF7B20D01C9100E9B64A /* ClassD2.m */,
+				0A31EF7D20D01C9100E9B64A /* ClassD3.h */,
+				0A31EF7920D01C9100E9B64A /* ClassD3.m */,
+			);
+			path = ModuleD;
+			sourceTree = "<group>";
+		};
 		0AC23DDE20CF99FA00E89E6F = {
 			isa = PBXGroup;
 			children = (
@@ -101,6 +215,10 @@
 		0AC23DE920CF99FA00E89E6F /* AnalyseDependencyDemo */ = {
 			isa = PBXGroup;
 			children = (
+				0A31EF5C20D01C9100E9B64A /* ModuleA */,
+				0A31EF7020D01C9100E9B64A /* ModuleB */,
+				0A31EF6920D01C9100E9B64A /* ModuleC */,
+				0A31EF7720D01C9100E9B64A /* ModuleD */,
 				0AC23DEA20CF99FA00E89E6F /* AppDelegate.h */,
 				0AC23DEB20CF99FA00E89E6F /* AppDelegate.m */,
 				0AC23DED20CF99FA00E89E6F /* ViewController.h */,
@@ -262,9 +380,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A31EF8A20D01C9100E9B64A /* ClassD2.m in Sources */,
+				0A31EF8520D01C9100E9B64A /* ClassC3.m in Sources */,
+				0A31EF8620D01C9100E9B64A /* ClassB1.m in Sources */,
 				0AC23DEF20CF99FA00E89E6F /* ViewController.m in Sources */,
+				0A31EF8420D01C9100E9B64A /* ClassC2.m in Sources */,
+				0A31EF8120D01C9100E9B64A /* SubClassA1.m in Sources */,
+				0A31EF8B20D01C9100E9B64A /* ClassD1.m in Sources */,
+				0A31EF8020D01C9100E9B64A /* ClassA2.m in Sources */,
 				0AC23DFA20CF99FC00E89E6F /* main.m in Sources */,
+				0A31EF8920D01C9100E9B64A /* ClassD3.m in Sources */,
+				0A31EF8220D01C9100E9B64A /* ClassA1.m in Sources */,
+				0A31EF7F20D01C9100E9B64A /* SubClassA2.m in Sources */,
+				0A31EF7E20D01C9100E9B64A /* ClassA3.m in Sources */,
+				0A31EF8720D01C9100E9B64A /* ClassB2.m in Sources */,
+				0A31EF8320D01C9100E9B64A /* ClassC1.m in Sources */,
 				0AC23DEC20CF99FA00E89E6F /* AppDelegate.m in Sources */,
+				0A31EF8820D01C9100E9B64A /* ClassB3.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
